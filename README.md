@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**rbinksy/rbinksy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I'm a developer living in London, UK. I work at Credit Karma.
+- 🌱 I’m currently learning Vertex AI, Python and MLOps.
+- 👨‍💻 I’m currently working as a product engineer.
+- 📫 You can reach me [here](mailto:craig.rich@hotmail.co.uk).
 
-Here are some ideas to get you started:
+**Socials:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [LinkedIn](https://www.linkedin.com/in/craigalanrichardson)
+- [Telegram](https://t.me/craigrichio)
+- [Blog](https://craigrich.io)
+- [X](https://x.com/craigrich_io)
